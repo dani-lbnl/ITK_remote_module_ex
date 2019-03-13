@@ -1,4 +1,4 @@
-ITKDance
+ITK_remote_module_ex
 =================================
 
 .. |CircleCI| image:: https://circleci.com/gh/InsightSoftwareConsortium/ITKDance.svg?style=shield
@@ -16,6 +16,6 @@ ITKDance
 |CircleCI|  |TravisCI|  |AppVeyor|
 =========== =========== ===========
 
-filter to teach dancing
+This is an example of how to create remote modules
 
-This remote module teaches itke how to dance salsa
+This remote module teaches nothing, it reads an image and return itself multiplied by 3 and added by 2
